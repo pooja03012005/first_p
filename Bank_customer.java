@@ -1,4 +1,4 @@
-package Program1;
+
 
 public class Bank_customer {
     private String custName;
